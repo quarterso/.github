@@ -4,6 +4,6 @@
 
 # Quarter
 
-Building what comes next. Software for the next decade of work.
+Building what's next.
 
-[Website](https://quarterso.github.io/preview/) · [LinkedIn](https://www.linkedin.com/company/quarterso/)
+[Website](https://quarterfi.com) · [LinkedIn](https://www.linkedin.com/company/quarterfi/)
